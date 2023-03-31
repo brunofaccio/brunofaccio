@@ -38,13 +38,13 @@
   
   <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=brunofaccio&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=brunofaccio&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunofaccio&show_icons=true&count_private=true&hide_border=true&title_color=E6E6FA&icon_color=FFF00&text_color=E6E6FA&bg_color=000000" alt="bruno github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofaccio&layout=compact&hide_border=true&title_color=E6E6FA&text_color=E6E6FA&bg_color=000000" />
+</div>
+ 
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{brunofaccio}/count.svg" /></p> 
+<br>
+</div>
